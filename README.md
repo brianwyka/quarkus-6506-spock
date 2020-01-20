@@ -1,4 +1,4 @@
-# quarkus-spock
+# quarkus-6506-spock
 
 Using `quarkusDev`:
 
